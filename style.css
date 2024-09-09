@@ -4,7 +4,9 @@ body{
 }
 
 #sammich{
-    border-radius: 25px;
+    width: 50%;
+    height: auto;
+    border-radius: 100px;
     transform: rotate();
 }
 

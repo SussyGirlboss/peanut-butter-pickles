@@ -5,9 +5,10 @@ body{
 
 #sammich{
     width: 50%;
-    height: auto;
-    border-radius: 100px;
-    transform: rotate();
+    height: 50%;
+    border: 10px solid maroon;
+    border-radius: 200px;
+    animation: rotate 7s infinite;
 }
 
 @keyframes rotate {
